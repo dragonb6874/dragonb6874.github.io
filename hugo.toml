@@ -43,6 +43,9 @@ enableRobotsTXT = true
     noClasses = false
   [markup.goldmark.renderer]
     unsafe = true
+  # ==텍스트== → <mark> 형광펜 하이라이트 활성화
+  [markup.goldmark.extensions.extras.mark]
+    enable = true
 
 # 상단 네비게이션
 [[menu.main]]

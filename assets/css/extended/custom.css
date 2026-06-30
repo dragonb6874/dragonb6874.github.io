@@ -49,4 +49,27 @@ article {
 .post-content h2 { margin-top: 1.9em; }
 .post-content h3 { margin-top: 1.4em; }
 .post-content table { line-height: 1.7; }
-.post-content blockquote { line-height: 1.8; }
+
+/* ── 핵심 하이라이트 (==텍스트==) — 형광펜 스타일 ── */
+mark {
+  background: linear-gradient(transparent 58%, #ffe27a 58%);
+  color: inherit;
+  padding: 0 0.08em;
+  border-radius: 2px;
+  font-weight: 600;
+}
+[data-theme="dark"] mark {
+  background: linear-gradient(transparent 58%, rgba(255, 214, 90, 0.45) 58%);
+  color: inherit;
+}
+
+/* ── 인용구 → 콜아웃 박스 (빠른 스캔용) ── */
+.post-content blockquote {
+  line-height: 1.8;
+  border-left: 4px solid var(--primary);
+  background: var(--code-bg);
+  padding: 0.7em 1em;
+  border-radius: 6px;
+  margin: 1.4em 0;
+}
+.post-content blockquote p { margin: 0.3em 0; }
