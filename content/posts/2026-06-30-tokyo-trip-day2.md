@@ -1,6 +1,6 @@
 ---
 title: "도쿄 여행기 — Day 2"
-date: 2026-06-30T10:00:00
+date: 2026-06-30T00:05:00
 draft: false
 tags: ["여행", "도쿄", "일본"]
 categories: ["여행"]
