@@ -94,18 +94,19 @@ mark {
 
 /* 여행 포토에세이 사진: 가운데 정렬 + 크게(세로 사진 높이 제한) */
 .post-content figure.tphoto{margin:1.5em 0;text-align:center}
+/* 사진 너비 = 글 너비, 직각 테두리 */
 .post-content figure.tphoto img{
-  max-height:860px;width:auto;max-width:100%;
-  margin:0 auto;border-radius:10px;
+  width:100%;height:auto;max-height:none;
+  margin:0;border-radius:0;
 }
 .post-content figure.tphoto figcaption{font-size:.9rem;margin-top:.5em}
 
-/* 세로 사진 2장 가로로 나란히 */
-.post-content figure.tphoto-pair .pair-imgs{display:flex;gap:10px;justify-content:center;align-items:flex-start}
-.post-content figure.tphoto-pair .pair-imgs img{max-height:560px;max-width:49%;width:auto;margin:0;border-radius:10px}
+/* 세로 사진 2장 가로로 나란히 (합쳐서 글 너비 채움) */
+.post-content figure.tphoto-pair .pair-imgs{display:flex;gap:10px;align-items:flex-start}
+.post-content figure.tphoto-pair .pair-imgs img{width:calc(50% - 5px);max-width:none;max-height:none;height:auto;margin:0;border-radius:0}
 @media (max-width:600px){
   .post-content figure.tphoto-pair .pair-imgs{flex-wrap:wrap}
-  .post-content figure.tphoto-pair .pair-imgs img{max-width:100%}
+  .post-content figure.tphoto-pair .pair-imgs img{width:100%}
 }
 
 /* 본문 사진 크기 제한(특히 세로 사진) + 가운데 정렬 */
