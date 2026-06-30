@@ -48,7 +48,7 @@ enableRobotsTXT = true
     desktopMode = "fixed"
     mobileMode = "auto"
     [params.header.title]
-      name = "dragonb6874"
+      name = "cheez.burguer"
 
   [params.footer]
     enable = true
