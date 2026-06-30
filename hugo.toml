@@ -4,6 +4,9 @@ theme = "PaperMod"
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 
+[services.googleAnalytics]
+  ID = "G-GNK0VQ34VE"
+
 [pagination]
   pagerSize = 5
 
