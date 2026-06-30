@@ -58,9 +58,14 @@ mark {
   border-radius: 2px;
   font-weight: 600;
 }
+/* 다크모드: 흰 글자가 노란 밴드에 묻히므로, 꽉 찬 노란 칩 + 어두운 글자 */
 [data-theme="dark"] mark {
-  background: linear-gradient(transparent 58%, rgba(255, 214, 90, 0.45) 58%);
-  color: inherit;
+  background: #ffd54f;
+  color: #1c1c1c;
+  padding: 0.02em 0.22em;
+  border-radius: 3px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 
 /* ── 인용구 → 콜아웃 박스 (빠른 스캔용) ── */
