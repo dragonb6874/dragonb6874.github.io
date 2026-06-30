@@ -25,6 +25,19 @@ enableRobotsTXT = true
   # 홈에 노출할 섹션 (글은 content/posts/)
   mainSections = ["posts"]
 
+  # 홈 상단 소개문 (Home-Info 모드 → 아래에 글 목록 유지)
+  [params.homeInfoParams]
+    Title = "안녕하세요 🐱"
+    Content = "고양이·반려묘 관련 기록 블로그."
+
+  # 홈 소개문 아래 아이콘 링크
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/dragonb6874"
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
+
 [markup]
   [markup.highlight]
     noClasses = false
