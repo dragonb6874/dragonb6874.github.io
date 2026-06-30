@@ -1,39 +1,34 @@
 baseURL = "https://dragonb6874.github.io/"
 title = "cheez.burguer"
-theme = "beautifulhugo"
+theme = "PaperMod"
 DefaultContentLanguage = "en"
 
 [pagination]
   pagerSize = 5
 
 [taxonomies]
-  tag = "tags"
   category = "categories"
+  tag = "tags"
 
-[Params]
-  subtitle = ""
-  # 홈에 노출할 콘텐츠 섹션 (글이 content/posts/ 에 있음)
+[params]
+  # 라이트 기본 (우상단 토글로 다크 전환 가능)
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowToc = true
+  TocOpen = false
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowWordCount = true
+  # 홈에 노출할 섹션 (글은 content/posts/)
   mainSections = ["posts"]
-  dateFormat = "2006-01-02"
-  # 라이트 고정 (auto=OS따라감, light=흰배경, dark=검정)
-  colorScheme = "light"
-  rss = true
-  readingTime = true
-  wordCount = true
-  socialShare = false
-  showRelatedPosts = true
-
-  [Params.author]
-    name = "dragonb6874"
 
 [markup]
   [markup.highlight]
     noClasses = false
   [markup.goldmark.renderer]
     unsafe = true
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 4
 
 # 상단 네비게이션
 [[menu.main]]

@@ -48,22 +48,50 @@ AAFCO 기준으로 키튼은 **100kcal당 단백질 7.5g**(성묘 6.5g)이 필�
 5. **습식 병행** — 수분 섭취 ↑ (요로 건강), 기호성 ↑.
 6. **곡물·탄수 과다 주의** — 탄수 비중 높으면 비만 위험.
 
-## 실제 제품 예시
+## 사료 등급(Tier)별 추천
 
-특정 브랜드 강요는 아니고, 위 기준을 충족하는 대표 키튼 제품들이다.
+사료는 **원료 품질·고기 함량·가공 방식**에 따라 대략 3개 등급으로 나뉜다.
+등급이 낮다고 무조건 "나쁜" 건 아니다 — **가격·접근성과의 trade-off**다.
+어떤 등급이든 **키튼(growth)용 + AAFCO 충족 + named meat 1순위**가 선결 조건.
+아래는 글로벌 시장 기준 대표 제품이며, 제품명을 누르면 **공식 페이지**로 이동한다.
 
-제품명을 누르면 **공식 제조사 페이지**로 이동한다.
+> ⚠️ tier 구분은 리뷰 매체마다 기준이 조금씩 다르다. 절대적 서열이 아니라
+> **품질 경향**으로 볼 것. (출처: Cats.com, PetMD 등 하단 참고)
+
+### Tier 1 — 슈퍼 프리미엄
+
+고기 함량 최대, grain-free, 저탄수, 신선/휴먼그레이드. 가격대 높음.
 
 | 제품 | 특징 |
 |---|---|
-| [Royal Canin British Shorthair Kitten](https://www.royalcanin.com/us/cats/breeds/british-shorthair) | BSH **품종 전용** 키튼 사료 (입자·영양 최적화) |
-| [Royal Canin Kitten](https://www.royalcanin.com/us/cats/products/retail-products) | 칼로리·단백 풍부, 성장기 표준 |
-| [Hill's Science Diet Kitten](https://www.hillspet.com/cat-food/sd-kitten-chicken-recipe) | 고단백 + DHA, 뇌·눈 발달 |
-| [Purina Pro Plan Kitten](https://www.purina.com/pro-plan/cats/kitten-food) | 실제 닭·간 + DHA 강화 |
-| [Orijen Cat & Kitten](https://www.orijenpetfoods.com) | 고단백·저탄수 (전연령) |
+| [Ziwi Peak](https://us.ziwipets.com/collections/cat-food) | 고기·생선 **92%**, 초저탄수 (뉴질랜드) |
+| [Orijen Cat & Kitten](https://www.orijenpetfoods.com/en-US/cats/cat-food) | 고단백·grain-free, **전연령**(키튼 포함) |
+| [Wellness CORE Kitten](https://www.wellnesspetfood.com/cat-food) | 동물성 단백 위주, 키튼 포뮬러 |
 
-> Royal Canin은 BSH 품종 전용 라인이 있어 입문용으로 무난하다. 다만 어떤 제품이든
-> **우리 고양이의 기호성·변 상태·체중 반응**이 최종 기준이다.
+### Tier 2 — 수의사 추천 사이언스 브랜드
+
+**WSAVA 기준**(상근 수의영양사 보유) 충족. 연구 기반 + 일관된 품질 +
+키튼 전용 포뮬러 다양. 가장 무난한 입문 등급.
+
+| 제품 | 특징 |
+|---|---|
+| [Royal Canin British Shorthair Kitten](https://www.royalcanin.com/uk/cats/products/retail-products/british-shorthair-kitten-2566) | **BSH 품종 전용**, 12개월까지 (지역별 판매 상이) |
+| [Hill's Science Diet Kitten](https://www.hillspet.com/cat-food) | 고단백 + DHA, 임상 검증 |
+| [Purina Pro Plan Kitten](https://www.purina.com/pro-plan/cats) | 실제 닭 + DHA, 대규모 영양 연구 |
+
+### Tier 3 — 대중 / 그로서리 (가성비)
+
+가격 저렴 + 구입 쉬움. AAFCO `growth` 충족 제품이면 키튼 영양은 가능하나,
+부산물·곡물 비중이 상대적으로 높음.
+
+| 제품 | 특징 |
+|---|---|
+| [Purina ONE Kitten](https://www.purina.com/purina-one/cats) | 가성비 + 검증된 제조사(WSAVA) |
+| [Iams Kitten](https://www.iams.com/cat/cat-food) | WSAVA 기준 충족 제조사 |
+| [Purina Cat Chow Kitten](https://www.purina.com) | 저가, 기본 영양 충족 |
+
+> **등급 < 라벨**: tier보다 포장의 **AAFCO `growth` 표기**와 **named meat 1순위**가 먼저다.
+> 그리고 어떤 제품이든 **우리 고양이의 기호성·변 상태·체중 반응**이 최종 기준이다.
 
 ## 급여 가이드 (BSH)
 
@@ -102,3 +130,6 @@ BSH는 **성숙이 느려** 소화기가 약 12개월에 완성된다. 키튼 �
 - [Merck Veterinary Manual — Nutritional requirements of small animals](https://www.merckvetmanual.com/management-and-nutrition/nutrition-small-animals/nutritional-requirements-of-small-animals)
 - [Almonte Cats — British Shorthair diet & nutrition guide](https://almontecats.com/british-shorthair-diet/)
 - [FDA — "Complete and Balanced" pet food](https://www.fda.gov/animal-veterinary/animal-health-literacy/complete-and-balanced-pet-food)
+- [Cats.com — Best cat food (등급/리뷰)](https://cats.com/best-cat-food)
+- [PetMD — Vet-recommended best cat foods](https://www.petmd.com/cat/vet-verified/best-cat-food)
+- [AMC — Why vets recommend Hill's, Purina, Royal Canin](https://www.amcvetmed.com/post/why-veterinarians-commonly-recommend-hill-s-purina-and-royal-canin-pet-foods)
