@@ -1,5 +1,5 @@
 ---
-title: "리코 GR IIIx 여름 레시피 best 5 (네거티브 필름 색감)"
+title: "리코 GR IIIx 색감 레시피 — 여름 best 5 + 월간GR 우승 2"
 date: 2026-06-30
 draft: false
 tags: ["카메라", "리코", "GR3x", "사진", "레시피"]
@@ -8,7 +8,8 @@ categories: ["카메라"]
 
 리코 GR IIIx 레시피 중 ==자연스러운 네거티브 필름 색감== 계열로,
 여름에 쓰기 좋은 5개를 골랐다. 기준은 많이들 쓰는 **Reggie's Color Negative**의 결.
-(쨍한 슬라이드·흑백은 제외.) 값은 **GR III / GR IIIx 공통**이다.
+(메인 5개는 쨍한 슬라이드·흑백 제외.) 값은 **GR III / GR IIIx 공통**이다.
+아래엔 [@ricohgr_kor](https://www.instagram.com/ricohgr_kor/) **월간GR 우승 레시피 2개**(Positive Film)도 보너스로 정리했다.
 
 ## 1. Reggie's Color Negative — 만능 기준
 
@@ -128,6 +129,48 @@ categories: ["카메라"]
 
 > 후기: 네거티브의 자연스러움 + 약간의 채도. 풍경·여행에 무난.
 > 출처: [Ritchie's Ricoh Recipes (Analog)](https://ricohrecipes.com/the-analog-collection/)
+
+---
+
+## 보너스 — 월간GR 우승 레시피 (Positive Film)
+
+리코 코리아 공식 [@ricohgr_kor](https://www.instagram.com/ricohgr_kor/)의 **월간GR** 공모전
+우승작 2개. 위 5개와 달리 **쨍한 Positive Film** 계열이다. (화이트밸런스는 원 게시물에
+미표기 — 오토/주광 기준으로 시작하면 된다.)
+
+### 6. 월간GR 6월 우승 (@jig_mitz)
+
+| 항목 | 값 |
+|---|---|
+| Effect | Positive Film |
+| 채도 | +1 |
+| 색상 | +4 |
+| H/L Key | +1 |
+| 콘트라스트 | −2 |
+| 콘트라스트(하이라이트) | −4 |
+| 콘트라스트(섀도) | −3 |
+| 샤프니스 | +1 |
+| 음영(Shading) | 0 |
+| 명료도 | −1 |
+
+> 출처: [@ricohgr_kor (Instagram)](https://www.instagram.com/p/DLqzBn0vn_f/) · 촬영 @jig_mitz
+
+### 7. 월간GR 12월 우승 (@yeezi_film)
+
+| 항목 | 값 |
+|---|---|
+| Effect | Positive Film |
+| 채도 | −2 |
+| 색상 | +2 |
+| H/L Key | −1 |
+| 콘트라스트 | −2 |
+| 콘트라스트(하이라이트) | +3 |
+| 콘트라스트(섀도) | −4 |
+| 샤프니스 | +1 |
+| 음영(Shading) | −1 |
+| 명료도 | +2 |
+
+> 출처: [@ricohgr_kor (Instagram)](https://www.instagram.com/p/DEwOaoCPgVb/) · 촬영 @yeezi_film
 
 ---
 
