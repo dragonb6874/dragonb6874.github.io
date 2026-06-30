@@ -31,11 +31,13 @@ categories: ["여행"]
 
 ---
 
-<figure class="tphoto">
-  <img src="/images/travel/tokyo1-day1/3-1.jpg" alt="생선육수 라멘 가게">
+<figure class="tphoto tphoto-pair">
+  <div class="pair-imgs">
+    <img src="/images/travel/tokyo1-day1/3-1.jpg" alt="생선육수 라멘 가게">
+    <img src="/images/travel/tokyo1-day1/3-2.jpg" alt="생선육수 라멘">
+  </div>
   <figcaption>생선육수 라멘</figcaption>
 </figure>
-<figure class="tphoto"><img src="/images/travel/tokyo1-day1/3-2.jpg" alt="생선육수 라멘"></figure>
 
 비가 와서 따뜻한 국물 요리가 땡긴다.
 맛집을 따로 알아보지 않고 무작정 들어간 곳은 생선육수 베이스의 라멘 가게였다.
@@ -64,11 +66,13 @@ categories: ["여행"]
 
 ---
 
-<figure class="tphoto">
-  <img src="/images/travel/tokyo1-day1/6-1.jpg" alt="저녁 식사">
+<figure class="tphoto tphoto-pair">
+  <div class="pair-imgs">
+    <img src="/images/travel/tokyo1-day1/6-1.jpg" alt="저녁 식사">
+    <img src="/images/travel/tokyo1-day1/6-2.jpg" alt="저녁 식사">
+  </div>
   <figcaption>간단한 저녁</figcaption>
 </figure>
-<figure class="tphoto"><img src="/images/travel/tokyo1-day1/6-2.jpg" alt="저녁 식사"></figure>
 
 미리 예약해둔 밥집. 맛있었다.
 
