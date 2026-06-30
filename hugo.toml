@@ -27,8 +27,8 @@ enableRobotsTXT = true
 
   # 홈 상단 소개문 (Home-Info 모드 → 아래에 글 목록 유지)
   [params.homeInfoParams]
-    Title = "안녕하세요 🐱"
-    Content = "고양이·반려묘 관련 기록 블로그."
+    Title = "Hello World!"
+    Content = ""
 
   # 홈 소개문 아래 아이콘 링크
   [[params.socialIcons]]
