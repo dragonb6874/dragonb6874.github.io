@@ -11,7 +11,7 @@ DefaultContentLanguage = "en"
   category = "categories"
 
 [Params]
-  subtitle = "AI로 반자동 운영하는 개인 블로그"
+  subtitle = ""
   # 홈에 노출할 콘텐츠 섹션 (글이 content/posts/ 에 있음)
   mainSections = ["posts"]
   dateFormat = "2006-01-02"
