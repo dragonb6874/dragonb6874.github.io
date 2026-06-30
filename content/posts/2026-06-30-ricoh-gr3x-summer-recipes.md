@@ -56,8 +56,6 @@ categories: ["카메라"]
 | 하이라이트 / 섀도 보정 | Auto / High |
 | 화이트밸런스 | 그늘(Shade) A:3 G:3 · 노출 0 |
 
-<div class="gr-photo">📷 샘플 사진</div>
-
 > 후기: 제작자도 "여름 햇빛에 잘 맞는다"고 함. 인물·따뜻한 일상에 추천.
 > 출처: [Luke Taylor](https://www.lukeptaylor.com/blog/portra-160-ricoh-gr-iii-film-simulation)
 
@@ -82,8 +80,6 @@ categories: ["카메라"]
 | 하이라이트 / 섀도 보정 | On / Medium |
 | 화이트밸런스 | 주광(Daylight) A:7 G:1 · 노출 +1/3~+2/3 |
 
-<div class="gr-photo">📷 샘플 사진</div>
-
 > 후기: 쨍한 게 부담스러울 때. 여름 숲·카페 톤이 부드럽다.
 > 출처: [Luke Taylor](https://www.lukeptaylor.com/blog/natural-analog-film-ricoh-gr-film-simulation-recipe)
 
@@ -107,8 +103,6 @@ categories: ["카메라"]
 | 하이라이트 / 섀도 보정 | On / Medium |
 | 화이트밸런스 | 형광D(주광색) B:4 G:1 · 노출 −2/3~0 |
 
-<div class="gr-photo">📷 샘플 사진</div>
-
 > 후기: 빈티지한 인화 톤. 따뜻한 시간대(아침·노을)에 잘 맞음.
 > 출처: [Ritchie's Ricoh Recipes (Film)](https://ricohrecipes.com/film-collection/)
 
@@ -131,8 +125,6 @@ categories: ["카메라"]
 | 명료도 | −1 |
 | 하이라이트 / 섀도 보정 | Auto / Medium |
 | 화이트밸런스 | 형광N(주백색) A:14 G:8 · 노출 −1/3~+1/3 |
-
-<div class="gr-photo">📷 샘플 사진</div>
 
 > 후기: 네거티브의 자연스러움 + 약간의 채도. 풍경·여행에 무난.
 > 출처: [Ritchie's Ricoh Recipes (Analog)](https://ricohrecipes.com/the-analog-collection/)

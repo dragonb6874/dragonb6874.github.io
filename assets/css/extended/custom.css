@@ -89,7 +89,7 @@ mark {
 }
 
 /* 사진 + 캡션 */
-.post-content figure{margin:1.2em 0;text-align:center}
+.post-content figure{margin:1.2em 0;text-align:left}
 .post-content figcaption{font-size:.85rem;color:var(--secondary);margin-top:.45em}
 
 /* 본문 사진 크기 제한(특히 세로 사진) + 가운데 정렬 */
@@ -99,6 +99,6 @@ mark {
   width:auto;
   height:auto;
   display:block;
-  margin:1.1em auto;
+  margin:1.1em 0;
   border-radius:8px;
 }
