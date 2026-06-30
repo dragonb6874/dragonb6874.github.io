@@ -28,7 +28,10 @@ categories: ["카메라"]
 | 하이라이트 / 섀도 보정 | Auto / Medium |
 | 화이트밸런스 | 오토 (A:6) · 노출 −1/3~+1/3 |
 
-![Reggie's Color Negative로 찍은 사진](/images/gr-recipes/recipe1-reggie-color-negative.jpg)
+<figure class="gr-fig">
+  <img src="/images/gr-recipes/recipe1-reggie-color-negative.jpg" alt="Reggie's Color Negative로 찍은 사진">
+  <figcaption>도쿄에서 직접 찍은 사진</figcaption>
+</figure>
 
 > 후기: "고민되면 이걸로." 노출 관용도 넓어 실패가 적다.
 > 출처: [Reggie Ballesteros](https://reggiebphotography.com/blog/The-Most-Versatile-Ricoh-GR-III-GR-IIIx-Film-Simulation-Recipe-Reggies-Color-Negative)
