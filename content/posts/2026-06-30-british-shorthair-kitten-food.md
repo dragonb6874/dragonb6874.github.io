@@ -67,7 +67,7 @@ categories: ["반려동물"]
 
 고기 함량 최대, grain-free, 저탄수, 신선/휴먼그레이드. 가격대 높음.
 
-| 제품 | 특징 | 한국 |
+| 제품 | 특징 | 국내 판매 |
 |---|---|:---:|
 | [Ziwi Peak](https://us.ziwipets.com/collections/cat-food) | 고기·생선 **92%**, 초저탄수 (뉴질랜드) | ✅ |
 | [Orijen Cat & Kitten](https://www.orijenpetfoods.com/en-US/cats/cat-food) | 고단백·grain-free, 전연령(키튼 포함) | ✅ |
@@ -80,7 +80,7 @@ categories: ["반려동물"]
 **WSAVA 기준**(상근 수의영양사 보유) 충족. 연구 기반 + 일관된 품질 +
 키튼 전용 포뮬러 다양. 가장 무난한 입문 등급.
 
-| 제품 | 특징 | 한국 |
+| 제품 | 특징 | 국내 판매 |
 |---|---|:---:|
 | [Royal Canin BSH Kitten](https://www.royalcanin.com/uk/cats/products/retail-products/british-shorthair-kitten-2566) | **BSH 품종 전용**, 12개월까지 | ❌ |
 | [Hill's Science Diet Kitten](https://www.hillspet.com/cat-food) | 고단백 + DHA, 임상 검증 | ✅ |
@@ -95,7 +95,7 @@ categories: ["반려동물"]
 가격 저렴 + 구입 쉬움. AAFCO `growth` 충족이면 키튼 영양은 가능하나,
 부산물·곡물 비중이 상대적으로 높음.
 
-| 제품 | 특징 | 한국 |
+| 제품 | 특징 | 국내 판매 |
 |---|---|:---:|
 | [Purina ONE Kitten](https://www.purina.com/purina-one/cats) | 가성비 + 검증된 제조사(WSAVA) | ✅ |
 | [Purina Cat Chow Kitten](https://www.purina.com) | 저가, 기본 영양 충족 | ✅ |
