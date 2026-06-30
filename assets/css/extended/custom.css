@@ -92,6 +92,13 @@ mark {
 .post-content figure{margin:1.2em 0;text-align:left}
 .post-content figcaption{font-size:.85rem;color:var(--secondary);margin-top:.45em}
 
+/* 여행 포토에세이 사진: 가운데 정렬 + 크게(세로 사진 높이 제한) */
+.post-content figure.tphoto{margin:1.5em 0;text-align:center}
+.post-content figure.tphoto img{
+  max-height:640px;width:auto;max-width:100%;
+  margin:0 auto;border-radius:10px;
+}
+
 /* 본문 사진 크기 제한(특히 세로 사진) + 가운데 정렬 */
 .post-content img{
   max-width:100%;
