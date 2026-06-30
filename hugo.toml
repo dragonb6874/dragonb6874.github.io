@@ -1,111 +1,54 @@
 baseURL = "https://dragonb6874.github.io/"
-theme = "LoveIt"
-defaultContentLanguage = "en"
-languageCode = "en"
-title = "dragonb6874 blog"
-
-enableEmoji = true
-enableRobotsTXT = true
+title = "cheez.burguer"
+theme = "beautifulhugo"
+DefaultContentLanguage = "en"
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 5
 
-# 상단 네비게이션 메뉴
-[menu]
-  [[menu.main]]
-    weight = 1
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-  [[menu.main]]
-    weight = 2
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-  [[menu.main]]
-    weight = 3
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-  [[menu.main]]
-    weight = 4
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
-[params]
-  # 기본 테마 ["auto", "light", "dark"]
-  defaultTheme = "auto"
+[Params]
+  subtitle = "AI로 반자동 운영하는 개인 블로그"
+  # 홈에 노출할 콘텐츠 섹션 (글이 content/posts/ 에 있음)
+  mainSections = ["posts"]
   dateFormat = "2006-01-02"
-  title = "dragonb6874 blog"
-  description = "AI로 반자동 운영하는 개인 블로그. 주제는 차차."
+  # 라이트/다크 자동
+  colorScheme = "auto"
+  rss = true
+  readingTime = true
+  wordCount = true
+  socialShare = false
+  showRelatedPosts = true
 
-  [params.author]
+  [Params.author]
     name = "dragonb6874"
-
-  # 상단 헤더 타이틀
-  [params.header]
-    desktopMode = "fixed"
-    mobileMode = "auto"
-    [params.header.title]
-      name = "cheez.burguer"
-
-  [params.footer]
-    enable = true
-    hugo = true
-    copyright = true
-    author = true
-    since = 2026
-
-  # 홈 화면 프로필 카드
-  [params.home]
-    [params.home.profile]
-      enable = true
-      # 아바타 쓰려면 static/images/avatar.png 두고 avatarURL="/images/avatar.png"
-      avatarURL = ""
-      title = "dragonb6874 blog"
-      subtitle = "AI로 반자동 운영하는 개인 블로그"
-      typeit = true
-      social = true
-    [params.home.posts]
-      enable = true
-      paginate = 6
-
-  # 홈 프로필 소셜 링크 (값 채우면 아이콘 표시)
-  [params.social]
-    GitHub = "dragonb6874"
-    RSS = true
-
-  # 검색 (lunr/fuse는 JSON output 필요 → 일단 끔)
-  [params.search]
-    enable = false
-
-  # 글 페이지 옵션
-  [params.page]
-    [params.page.toc]
-      enable = true
-      auto = true
-    [params.page.code]
-      copy = true
-      maxShownLines = 50
-    [params.page.share]
-      enable = false
-    [params.page.comment]
-      enable = false
 
 [markup]
   [markup.highlight]
     noClasses = false
-    lineNos = false
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  [markup.goldmark.renderer]
+    unsafe = true
   [markup.tableOfContents]
     startLevel = 2
-    endLevel = 6
+    endLevel = 4
 
-[outputs]
-  home = ["HTML", "RSS"]
-  page = ["HTML"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
+# 상단 네비게이션
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 3
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4

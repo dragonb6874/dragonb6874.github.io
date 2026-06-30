@@ -52,13 +52,15 @@ AAFCO 기준으로 키튼은 **100kcal당 단백질 7.5g**(성묘 6.5g)이 필�
 
 특정 브랜드 강요는 아니고, 위 기준을 충족하는 대표 키튼 제품들이다.
 
+제품명을 누르면 **공식 제조사 페이지**로 이동한다.
+
 | 제품 | 특징 |
 |---|---|
-| **Royal Canin British Shorthair Kitten** | BSH **품종 전용** 키튼 사료 (입자·영양 최적화) |
-| Royal Canin Kitten | 칼로리·단백 풍부, 성장기 표준 |
-| Hill's Science Diet Kitten | 고단백 + DHA, 뇌·눈 발달 |
-| Purina Pro Plan Kitten | 실제 닭·간 + DHA 강화 |
-| Orijen Cat & Kitten | 고단백·저탄수 (전연령) |
+| [Royal Canin British Shorthair Kitten](https://www.royalcanin.com/us/cats/breeds/british-shorthair) | BSH **품종 전용** 키튼 사료 (입자·영양 최적화) |
+| [Royal Canin Kitten](https://www.royalcanin.com/us/cats/products/retail-products) | 칼로리·단백 풍부, 성장기 표준 |
+| [Hill's Science Diet Kitten](https://www.hillspet.com/cat-food/sd-kitten-chicken-recipe) | 고단백 + DHA, 뇌·눈 발달 |
+| [Purina Pro Plan Kitten](https://www.purina.com/pro-plan/cats/kitten-food) | 실제 닭·간 + DHA 강화 |
+| [Orijen Cat & Kitten](https://www.orijenpetfoods.com) | 고단백·저탄수 (전연령) |
 
 > Royal Canin은 BSH 품종 전용 라인이 있어 입문용으로 무난하다. 다만 어떤 제품이든
 > **우리 고양이의 기호성·변 상태·체중 반응**이 최종 기준이다.

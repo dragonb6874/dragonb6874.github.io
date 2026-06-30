@@ -1,0 +1,46 @@
+/* ── 한글 가독성 (Beautiful Hugo 용) ───────────────── */
+
+/* Pretendard 가변 웹폰트 (jsDelivr CDN, 방문자 브라우저 로드) */
+@font-face {
+  font-family: "Pretendard Variable";
+  font-weight: 45 920;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/woff2/PretendardVariable.woff2")
+    format("woff2-variations");
+}
+
+:root {
+  --kfont: "Pretendard Variable", Pretendard, system-ui, -apple-system,
+    "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", Roboto, "Segoe UI",
+    sans-serif;
+}
+
+/* 본문/제목/네비 모두 한글 폰트 */
+body, p, li, a, blockquote, td, th,
+h1, h2, h3, h4, h5, h6,
+.navbar, .blog-post, .post-heading, .post-preview, .intro-header {
+  font-family: var(--kfont) !important;
+}
+
+body {
+  letter-spacing: -0.003em;
+}
+
+/* 한글 줄바꿈: 단어 단위로 (음절 중간 끊김 방지) */
+.blog-post, .post-preview, article {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+/* 본문 가독성: 크기 + 행간 + 문단 간격 */
+.blog-post {
+  font-size: 1.05rem;
+  line-height: 1.85;
+}
+.blog-post p { margin: 1.15em 0; }
+.blog-post li { line-height: 1.8; margin: 0.35em 0; }
+.blog-post h2 { margin-top: 1.9em; }
+.blog-post h3 { margin-top: 1.4em; }
+.blog-post table { line-height: 1.7; }
+.blog-post blockquote { line-height: 1.8; }
