@@ -78,3 +78,12 @@ mark {
   margin: 1.4em 0;
 }
 .post-content blockquote p { margin: 0.3em 0; }
+
+/* 사진 자리(직접 촬영 이미지 넣을 슬롯) */
+.gr-photo{
+  display:flex;align-items:center;justify-content:center;
+  min-height:170px;margin:.9em 0;
+  border:2px dashed var(--border);border-radius:10px;
+  background:var(--code-bg);color:var(--secondary);
+  font-size:.92rem;text-align:center;padding:1em;
+}
