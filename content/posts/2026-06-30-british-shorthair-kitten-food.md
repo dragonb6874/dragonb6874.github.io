@@ -53,42 +53,52 @@ AAFCO 기준으로 키튼은 **100kcal당 단백질 7.5g**(성묘 6.5g)이 필�
 사료는 **원료 품질·고기 함량·가공 방식**에 따라 대략 3개 등급으로 나뉜다.
 등급이 낮다고 무조건 "나쁜" 건 아니다 — **가격·접근성과의 trade-off**다.
 어떤 등급이든 **키튼(growth)용 + AAFCO 충족 + named meat 1순위**가 선결 조건.
-아래는 글로벌 시장 기준 대표 제품이며, 제품명을 누르면 **공식 페이지**로 이동한다.
 
-> ⚠️ tier 구분은 리뷰 매체마다 기준이 조금씩 다르다. 절대적 서열이 아니라
-> **품질 경향**으로 볼 것. (출처: Cats.com, PetMD 등 하단 참고)
+아래는 **글로벌 시장 기준** 대표 제품이고, **한국 판매 여부**를 따로 표기했다
+(✅ 국내 정식 유통 / ❌ 국내 미판매·직구만 / ❓ 확인 필요). 제품명 → 공식 페이지.
+
+> ⚠️ tier 구분은 리뷰 매체마다 기준이 다르다. 절대적 서열이 아니라 **품질 경향**.
+> 한국 판매 정보는 **2026-06 기준** 온라인 유통 확인값 (출처 하단 참고).
 
 ### Tier 1 — 슈퍼 프리미엄
 
 고기 함량 최대, grain-free, 저탄수, 신선/휴먼그레이드. 가격대 높음.
 
-| 제품 | 특징 |
-|---|---|
-| [Ziwi Peak](https://us.ziwipets.com/collections/cat-food) | 고기·생선 **92%**, 초저탄수 (뉴질랜드) |
-| [Orijen Cat & Kitten](https://www.orijenpetfoods.com/en-US/cats/cat-food) | 고단백·grain-free, **전연령**(키튼 포함) |
-| [Wellness CORE Kitten](https://www.wellnesspetfood.com/cat-food) | 동물성 단백 위주, 키튼 포뮬러 |
+| 제품 | 특징 | 한국 |
+|---|---|:---:|
+| [Ziwi Peak](https://us.ziwipets.com/collections/cat-food) | 고기·생선 **92%**, 초저탄수 (뉴질랜드) | ✅ |
+| [Orijen Cat & Kitten](https://www.orijenpetfoods.com/en-US/cats/cat-food) | 고단백·grain-free, 전연령(키튼 포함) | ✅ |
+| [Wellness CORE Kitten](https://www.wellnesspetfood.com/cat-food) | 동물성 단백 위주, 키튼 포뮬러 | ✅ |
+
+> Tier 1은 셋 다 국내 정식 유통 (오리젠 키튼 / 지위픽 / 웰니스 코어 키튼 = 유한양행).
 
 ### Tier 2 — 수의사 추천 사이언스 브랜드
 
 **WSAVA 기준**(상근 수의영양사 보유) 충족. 연구 기반 + 일관된 품질 +
 키튼 전용 포뮬러 다양. 가장 무난한 입문 등급.
 
-| 제품 | 특징 |
-|---|---|
-| [Royal Canin British Shorthair Kitten](https://www.royalcanin.com/uk/cats/products/retail-products/british-shorthair-kitten-2566) | **BSH 품종 전용**, 12개월까지 (지역별 판매 상이) |
-| [Hill's Science Diet Kitten](https://www.hillspet.com/cat-food) | 고단백 + DHA, 임상 검증 |
-| [Purina Pro Plan Kitten](https://www.purina.com/pro-plan/cats) | 실제 닭 + DHA, 대규모 영양 연구 |
+| 제품 | 특징 | 한국 |
+|---|---|:---:|
+| [Royal Canin BSH Kitten](https://www.royalcanin.com/uk/cats/products/retail-products/british-shorthair-kitten-2566) | **BSH 품종 전용**, 12개월까지 | ❌ |
+| [Hill's Science Diet Kitten](https://www.hillspet.com/cat-food) | 고단백 + DHA, 임상 검증 | ✅ |
+| [Purina Pro Plan Kitten](https://www.purina.com/pro-plan/cats) | 실제 닭 + DHA, 대규모 영양 연구 | ✅ |
+
+> ❌ **Royal Canin BSH Kitten은 국내 미판매** (해외직구만 가능). 국내 대체:
+> [로얄캐닌 키튼](https://www.royalcanin.com/kr/cats/products)(일반 성장기) 또는
+> **브리티시 숏헤어 어덜트**(12개월 이후 전환). 국내엔 BSH **어덜트**만 정식 유통.
 
 ### Tier 3 — 대중 / 그로서리 (가성비)
 
-가격 저렴 + 구입 쉬움. AAFCO `growth` 충족 제품이면 키튼 영양은 가능하나,
+가격 저렴 + 구입 쉬움. AAFCO `growth` 충족이면 키튼 영양은 가능하나,
 부산물·곡물 비중이 상대적으로 높음.
 
-| 제품 | 특징 |
-|---|---|
-| [Purina ONE Kitten](https://www.purina.com/purina-one/cats) | 가성비 + 검증된 제조사(WSAVA) |
-| [Iams Kitten](https://www.iams.com/cat/cat-food) | WSAVA 기준 충족 제조사 |
-| [Purina Cat Chow Kitten](https://www.purina.com) | 저가, 기본 영양 충족 |
+| 제품 | 특징 | 한국 |
+|---|---|:---:|
+| [Purina ONE Kitten](https://www.purina.com/purina-one/cats) | 가성비 + 검증된 제조사(WSAVA) | ✅ |
+| [Purina Cat Chow Kitten](https://www.purina.com) | 저가, 기본 영양 충족 | ✅ |
+| [Iams Kitten](https://www.iams.com/cat/cat-food) | WSAVA 기준 충족 제조사 | ❓ |
+
+> ❓ Iams는 국내 정식 유통이 불명확(2026-06 기준). 국내 Tier 3는 **퓨리나 원·캣차우**가 무난.
 
 > **등급 < 라벨**: tier보다 포장의 **AAFCO `growth` 표기**와 **named meat 1순위**가 먼저다.
 > 그리고 어떤 제품이든 **우리 고양이의 기호성·변 상태·체중 반응**이 최종 기준이다.
@@ -133,3 +143,10 @@ BSH는 **성숙이 느려** 소화기가 약 12개월에 완성된다. 키튼 �
 - [Cats.com — Best cat food (등급/리뷰)](https://cats.com/best-cat-food)
 - [PetMD — Vet-recommended best cat foods](https://www.petmd.com/cat/vet-verified/best-cat-food)
 - [AMC — Why vets recommend Hill's, Purina, Royal Canin](https://www.amcvetmed.com/post/why-veterinarians-commonly-recommend-hill-s-purina-and-royal-canin-pet-foods)
+
+**한국 유통 확인 (2026-06)**
+
+- [Royal Canin Korea — 고양이 제품](https://www.royalcanin.com/kr/cats/products)
+- [힐스 벳샵 — 사이언스 다이어트 키튼](https://hillsvetshop.co.kr/products/sd-fel-kit)
+- [웰니스 코리아 (유한양행)](https://wellnesspet.kr/)
+- [펫프렌즈 — 오리젠/지위픽/힐스 키튼 등](https://www.pet-friends.co.kr/)
