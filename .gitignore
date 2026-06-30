@@ -6,3 +6,6 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# 작업용 초안/원본사진 (게시 안 함)
+/_drafts/
