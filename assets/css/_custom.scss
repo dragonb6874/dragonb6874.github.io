@@ -1,0 +1,50 @@
+// ── 한글 가독성 커스텀 ─────────────────────────────
+
+// Pretendard 가변 웹폰트 (jsDelivr CDN, 방문자 브라우저가 로드)
+@font-face {
+  font-family: "Pretendard Variable";
+  font-weight: 45 920;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/woff2/PretendardVariable.woff2")
+    format("woff2-variations");
+}
+
+// 한글 자간 살짝 조이기
+body {
+  letter-spacing: -0.003em;
+}
+
+// 한글 줄바꿈: 단어 단위로 (음절 중간 끊김 방지)
+.content,
+.single .content,
+.page .content {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+// 본문 가독성: 폰트 크기 + 행간 + 문단 간격
+.single .content {
+  font-size: 1.05rem;
+  line-height: 1.9;
+
+  p {
+    margin: 1.15em 0;
+  }
+  li {
+    line-height: 1.85;
+    margin: 0.35em 0;
+  }
+  h2 {
+    margin-top: 1.9em;
+  }
+  h3 {
+    margin-top: 1.4em;
+  }
+  table {
+    line-height: 1.7;
+  }
+  blockquote {
+    line-height: 1.85;
+  }
+}

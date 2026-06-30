@@ -1,0 +1,9 @@
+// LoveIt 변수 오버라이드 (테마 _variables.scss 다음에 import됨 → 재정의 가능)
+
+// 한글 웹폰트(Pretendard) 우선 + 시스템 한글 폰트 폴백
+$global-font-family: "Pretendard Variable", Pretendard, system-ui, -apple-system,
+  "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", Roboto, "Segoe UI",
+  Emoji, Helvetica, Arial, sans-serif;
+
+// 한글 행간 (기본 1.5rem → 넉넉하게)
+$global-line-height: 1.8rem;
