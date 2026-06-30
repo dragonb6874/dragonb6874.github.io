@@ -147,14 +147,18 @@ categories: ["여행"]
 
 ---
 
-<figure class="tphoto tphoto-pair">
-  <div class="pair-imgs">
-    <img src="/images/travel/tokyo1-day3/13.jpg" alt="셋째 날 마무리">
-    <img src="/images/travel/tokyo1-day3/14.jpg" alt="셋째 날 마무리">
-  </div>
+<figure class="tphoto">
+  <img src="/images/travel/tokyo1-day3/13.jpg" alt="셋째 날 마무리">
   <figcaption>셋째 날 마무리</figcaption>
 </figure>
 
 편의점에서 간식도 먹고 쉬다가 다시 나와 보니 도쿄타워 불빛이 주황색이 됐다.
 지금 보니 도쿄타워에 미쳐 있는 사람 같아 보이기도 한다.
 하고 싶은 것을 원 없이 한 세 번째 날이 저물어 간다.
+
+---
+
+<figure class="tphoto">
+  <img src="/images/travel/tokyo1-day3/14.jpg" alt="그냥 마음에 드는 사진">
+  <figcaption>그냥 마음에 드는 사진</figcaption>
+</figure>
