@@ -15,8 +15,8 @@ DefaultContentLanguage = "en"
   # 홈에 노출할 콘텐츠 섹션 (글이 content/posts/ 에 있음)
   mainSections = ["posts"]
   dateFormat = "2006-01-02"
-  # 라이트/다크 자동
-  colorScheme = "auto"
+  # 라이트 고정 (auto=OS따라감, light=흰배경, dark=검정)
+  colorScheme = "light"
   rss = true
   readingTime = true
   wordCount = true
