@@ -1,0 +1,40 @@
+baseURL = "https://dragonb6874.github.io/"
+locale = "ko-kr"
+title = "dragonb6874 blog"
+theme = "hyde"
+
+# 한 페이지에 보일 글 개수
+[pagination]
+  pagerSize = 5
+
+[params]
+  # 사이드바 설명문
+  description = "AI로 반자동 운영하는 개인 블로그. 주제는 차차."
+  # Hyde 8색 테마 중 하나: theme-base-08(red) 09(orange) 0a(yellow)
+  # 0b(green) 0c(cyan) 0d(blue) 0e(magenta) 0f(brown)
+  themeColor = "theme-base-0d"
+  # true 면 사이드바가 오른쪽으로
+  layoutReverse = false
+
+[author]
+  name = "dragonb6874"
+
+# 사이드바 네비게이션 메뉴
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+# 댓글(Disqus) / 통계(GA) 쓰려면 주석 해제
+# disqusShortname = ""
+# googleAnalytics = ""
