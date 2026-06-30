@@ -1,5 +1,5 @@
 ---
-title: "리코 GR IIIx 색감 레시피 — 여름 best 5 + 월간GR 우승 2"
+title: "리코 GR3x 여름 레시피"
 date: 2026-06-30
 draft: false
 tags: ["카메라", "리코", "GR3x", "사진", "레시피"]
