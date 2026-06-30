@@ -1,0 +1,40 @@
+{{- define "main" }}
+
+{{- if .Content }}
+<div class="post-content md-content">{{ .Content }}</div>
+{{- end }}
+
+{{- if site.Params.homeInfoParams }}
+{{- partial "home_info.html" . }}
+{{- end }}
+
+{{- /* 카테고리별 그룹 표시 */}}
+{{- range $name, $taxonomy := site.Taxonomies.categories }}
+{{- $term := site.GetPage (printf "/categories/%s" $name) }}
+<section class="home-cat">
+  <h2 class="home-cat-title">
+    {{- with $term }}<a href="{{ .Permalink }}">{{ $name }}</a>{{ else }}{{ $name }}{{ end -}}
+    <span class="home-cat-count">{{ len $taxonomy.Pages }}</span>
+  </h2>
+  {{- range $taxonomy.Pages.ByDate.Reverse }}
+  <article class="post-entry">
+    <header class="entry-header">
+      <h2 class="entry-hint-parent">{{ .Title }}</h2>
+    </header>
+    {{- if (ne (.Param "hideSummary") true) }}
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <footer class="entry-footer">
+      {{- partial "post_meta.html" . -}}
+    </footer>
+    {{- end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  </article>
+  {{- end }}
+</section>
+{{- end }}
+
+{{- end }}{{- /* end main */ -}}

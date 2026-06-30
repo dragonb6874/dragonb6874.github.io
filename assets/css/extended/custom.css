@@ -79,6 +79,17 @@ mark {
 }
 .post-content blockquote p { margin: 0.3em 0; }
 
+/* 홈 카테고리 그룹 */
+.home-cat{margin:0 0 1.6em}
+.home-cat-title{
+  display:flex;align-items:center;gap:.4em;
+  border-bottom:2px solid var(--border);
+  padding-bottom:.25em;margin:1.4em 0 .3em;font-size:1.4rem;
+}
+.home-cat-title a{color:var(--primary)}
+.home-cat-count{font-size:.8rem;color:var(--secondary);font-weight:400}
+.home-cat .post-entry{margin:0}
+
 /* 사진 자리(직접 촬영 이미지 넣을 슬롯) */
 .gr-photo{
   display:flex;align-items:center;justify-content:center;
