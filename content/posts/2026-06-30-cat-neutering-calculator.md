@@ -86,11 +86,3 @@ categories: ["반려동물"]
   document.getElementById("birth").addEventListener("change",calc);
 })();
 </script>
-
-## 어떻게 계산하나?
-
-- **권장 범위**: 생후 4개월 ~ 5개월 (달력에 옅은 노란색)
-- **추천일**: 생후 약 4.5개월 (진한 노란색)
-
-숫자 근거(연구·수의사 단체 출처)는 본문 글에 정리돼 있다 →
-[중성화, 언제 하면 좋을까?](/posts/2026-06-30-british-shorthair-neutering-timing/)
