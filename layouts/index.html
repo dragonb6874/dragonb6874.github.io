@@ -13,7 +13,7 @@
 {{- $term := site.GetPage (printf "/categories/%s" $name) }}
 <section class="home-cat">
   <h2 class="home-cat-title">
-    {{- with $term }}<a href="{{ .Permalink }}">{{ $name }}</a>{{ else }}{{ $name }}{{ end -}}
+    {{- with $term }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ else }}{{ $name }}{{ end -}}
     <span class="home-cat-count">{{ len $taxonomy.Pages }}</span>
   </h2>
   <ul class="home-cat-list">

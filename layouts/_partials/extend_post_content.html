@@ -3,7 +3,8 @@
 <aside class="post-sidebar" aria-label="글 목록">
   <div class="ps-title">글 목록</div>
   {{- range $name, $tax := site.Taxonomies.categories }}
-  <div class="ps-cat">{{ $name }}</div>
+  {{- $term := site.GetPage (printf "/categories/%s" $name) }}
+  <div class="ps-cat">{{ with $term }}{{ .Title }}{{ else }}{{ $name }}{{ end }}</div>
   <ul>
     {{- range $tax.Pages.ByDate.Reverse }}
     <li{{ if eq .Permalink $.Permalink }} class="ps-active"{{ end }}><a href="{{ .Permalink }}">{{ .Title }}</a></li>
