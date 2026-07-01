@@ -1,0 +1,21 @@
+{{- /* GoatCounter 방문 집계 */}}
+<script data-goatcounter="https://dragonb.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+{{- /* 단일 글 페이지: 메타(날짜) 옆에 조회수 숫자 표시 */}}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var meta = document.querySelector(".post-single .post-meta");
+  if (!meta) return;
+  var url = "https://dragonb.goatcounter.com/counter" + location.pathname + ".json";
+  fetch(url)
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (d) {
+      if (!d || d.count == null) return;
+      var span = document.createElement("span");
+      span.textContent = " · 👁 " + d.count;
+      meta.appendChild(span);
+    })
+    .catch(function () {});
+});
+</script>
