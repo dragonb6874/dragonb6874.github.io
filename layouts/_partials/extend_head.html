@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (!meta) return;
   var url = "https://dragonb.goatcounter.com/counter" + location.pathname + ".json";
   fetch(url)
-    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (r) { return r.json(); })
     .then(function (d) {
       if (!d || d.count == null) return;
       var span = document.createElement("span");
