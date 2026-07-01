@@ -1,0 +1,14 @@
+{{- /* 글 페이지 좌측 고정 사이드바: 카테고리별 글 목록 */ -}}
+{{- if and .IsPage (eq .Section "posts") }}
+<aside class="post-sidebar" aria-label="글 목록">
+  <div class="ps-title">글 목록</div>
+  {{- range $name, $tax := site.Taxonomies.categories }}
+  <div class="ps-cat">{{ $name }}</div>
+  <ul>
+    {{- range $tax.Pages.ByDate.Reverse }}
+    <li{{ if eq .Permalink $.Permalink }} class="ps-active"{{ end }}><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+  {{- end }}
+</aside>
+{{- end }}
