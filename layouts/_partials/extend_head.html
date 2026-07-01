@@ -7,7 +7,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   var meta = document.querySelector(".post-single .post-meta");
   if (!meta) return;
-  var url = "https://dragonb.goatcounter.com/counter" + location.pathname + ".json";
+  var url = "https://dragonb.goatcounter.com/counter/" + encodeURIComponent(location.pathname) + ".json";
   fetch(url)
     .then(function (r) { return r.json(); })
     .then(function (d) {
