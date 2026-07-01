@@ -38,6 +38,22 @@ Anthropic이 **Claude Science**를 공개했다(6/30). 흩어진 연구 도구�
 
 ---
 
+## 써보려면 (Claude Code 사용자 참고)
+
+==Claude Code와 Claude Science는 별개 제품==이다.
+
+| | Claude Code | Claude Science |
+|---|---|---|
+| 정체 | 터미널 코딩 에이전트 (CLI) | 연구용 워크벤치 앱 |
+
+- **플랜**: Claude Science 베타는 **Pro · Max · Team · Enterprise** 대상. Claude Code를
+  Pro/Max 구독으로 쓰고 있다면 **같은 구독으로 자격이 있다**(추가 결제 불필요).
+- **별도 앱**: Claude Code(CLI)와 별개로, Claude Science 앱을 **따로 받아 활성화**해야 한다
+  (macOS·Linux 베타).
+- 정확한 설치·활성화 절차는 [공식 발표 페이지](https://www.anthropic.com/news/claude-science-ai-workbench)에서 확인.
+
+---
+
 ## 연구실용 Claude Team 플랜
 
 학술기관·비영리 연구실을 위한 **할인 Team 구독**.
