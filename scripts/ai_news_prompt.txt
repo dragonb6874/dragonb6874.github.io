@@ -1,0 +1,20 @@
+[자동 실행] 매일 AI News 업데이트 체크·반영 작업이다. 블로그 repo = ~/dragonb6874.github.io (Hugo + PaperMod, GitHub Pages 자동배포). 아래를 그대로 수행하라.
+
+1. 웹 검색으로 "지난 24시간"의 AI / AI 코딩 에이전트 주요 뉴스를 조사. 4개 분류: (a) 🧠 모델 출시 (b) 🤖 AI 코딩 에이전트 (c) 🛠️ 도구·벤치마크 (d) 🏗️ 인프라.
+
+2. 각 항목을 반드시 1차 출처(공식 뉴스룸/changelog)나 신뢰 매체로 사실 검증하라. 미확인·소문·이름 불명확 항목은 제외. 추론·전망 금지 — 발표/보도된 사실만. 코딩 에이전트/앱/벤치마크/모델을 정확히 구분(벤치마크를 '에이전트'로 분류 금지). 출처 링크는 루트(/news)가 아니라 해당 발표의 **정확한 딥링크**를 붙여라.
+
+3. 가장 최근 [AI News] 글 파일을 찾아라: `ls -t ~/dragonb6874.github.io/content/posts/*ai-weekly*.md | head -1`. 그 파일을 읽고 이미 실린 항목과 비교하라.
+
+4. 새로 검증된 항목만 해당 섹션에 "제목 — 주체 (날짜)" + 1~2문장 + 딥링크 형식으로 추가하고, 하단 요약 표에도 행을 추가하라. 기존 내용은 절대 삭제·수정하지 마라. 톤·형식은 기존 글과 동일하게.
+
+5. 새 항목이 하나도 없으면 아무 파일도 바꾸지 말고 "변경 없음"으로 종료하라 (커밋 금지). 하루 새 소식이 없는 날은 정상이다.
+
+6. 변경한 경우에만 아래를 실행:
+   - 빌드: source ~/mambaforge/etc/profile.d/conda.sh && mamba run -n hugo hugo --source ~/dragonb6874.github.io --environment production --gc --minify --cleanDestinationDir   (error 없이 끝나야 함)
+   - 커밋/푸시: git -C ~/dragonb6874.github.io add -A && git -C ~/dragonb6874.github.io -c user.email="bsy5347@gmail.com" -c user.name="dragonb6874" commit -m "AI News: daily update $(date +%F)" && git -C ~/dragonb6874.github.io push origin main
+   - 배포 확인: https://api.github.com/repos/dragonb6874/dragonb6874.github.io/actions/runs?per_page=1 를 폴링해 최신 run이 completed/success 인지 확인.
+
+7. 마지막에 추가한 항목(제목·날짜) 또는 "변경 없음"을 한 줄로 요약 출력하라.
+
+원칙: 정확성 > 분량. 확실하지 않으면 넣지 마라.
