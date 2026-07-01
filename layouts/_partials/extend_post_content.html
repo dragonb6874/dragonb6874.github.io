@@ -1,5 +1,5 @@
-{{- /* 글 페이지 좌측 고정 사이드바: 카테고리별 글 목록 */ -}}
-{{- if and .IsPage (eq .Section "posts") }}
+{{- /* 글 페이지 좌측 고정 사이드바: 카테고리별 글 목록 (position:fixed 라 DOM 위치 무관) */ -}}
+{{- if eq .Section "posts" }}
 <aside class="post-sidebar" aria-label="글 목록">
   <div class="ps-title">글 목록</div>
   {{- range $name, $tax := site.Taxonomies.categories }}
