@@ -1,5 +1,5 @@
 ---
-title: "도쿄 여행기 — Day 1"
+title: "2024 도쿄 여행기 - Day 1"
 date: 2026-06-30
 draft: false
 tags: ["여행", "도쿄", "일본"]
